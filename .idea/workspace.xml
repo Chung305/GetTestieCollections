@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487fa8d6-5b45-42db-8ec1-7d87ff327b16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GetTestieCollections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gettestie/src/main/java/rocks/zipcode/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/gettestie/src/main/java/rocks/zipcode/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gettestie/src/main/java/rocks/zipcode/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/gettestie/src/main/java/rocks/zipcode/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/TestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/ArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test/GetTestieCollections/rocks/zipcode/TestStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test/GetTestieCollections/rocks/zipcode/TestStack.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,102 +14,60 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.46238717">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/AppTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="225">
-                  <caret line="15" selection-start-line="15" selection-end-line="15" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/TestStack.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="405">
-                  <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/gettestie/src/main/java/rocks/zipcode/Address.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-                  <folding>
-                    <element signature="e#305#306#0" expanded="true" />
-                    <element signature="e#353#354#0" expanded="true" />
-                    <element signature="e#728#729#0" expanded="true" />
-                    <element signature="e#812#813#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/gettestie/src/main/java/rocks/zipcode/App.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-                  <folding>
-                    <element signature="e#240#241#0" expanded="true" />
-                    <element signature="e#290#291#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/gettestie/src/main/java/rocks/zipcode/Person.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="3" selection-start-line="3" selection-end-line="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/TestStack.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="203">
-                  <caret line="41" selection-start-line="41" selection-end-line="41" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/ArrayListTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/TestStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/ArrayListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/HashSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="66" lean-forward="true" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -132,6 +86,9 @@
         <option value="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/AppTest.java" />
         <option value="$PROJECT_DIR$/gettestie/src/main/java/rocks/zipcode/Person.java" />
         <option value="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/TestStack.java" />
+        <option value="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/ArrayListTest.java" />
+        <option value="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/LinkedList.java" />
+        <option value="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/HashSet.java" />
       </list>
     </option>
   </component>
@@ -146,7 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,15 +142,6 @@
               <item name="GetTestieCollections" type="462c0819:PsiDirectoryNode" />
               <item name="gettestie" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zipcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GetTestieCollections" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GetTestieCollections" type="462c0819:PsiDirectoryNode" />
-              <item name="gettestie" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -221,7 +169,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,11 +207,42 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in GetTestieCollections">
+  <component name="RunManager" selected="JUnit.ArrayListTest.ArrayListremoveTest2">
     <configuration name="All in GetTestieCollections" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GetTestieCollections" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GetTestieCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rocks.zipcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rocks.zipcode" />
+      <option name="MAIN_CLASS_NAME" value="rocks.zipcode.ArrayListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTest.ArrayListremoveTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GetTestieCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rocks.zipcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rocks.zipcode" />
+      <option name="MAIN_CLASS_NAME" value="rocks.zipcode.ArrayListTest" />
+      <option name="METHOD_NAME" value="ArrayListremoveTest2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -301,9 +280,13 @@
       <item itemvalue="JUnit.Unnamed" />
       <item itemvalue="JUnit.TestStack" />
       <item itemvalue="JUnit.All in GetTestieCollections" />
+      <item itemvalue="JUnit.ArrayListTest" />
+      <item itemvalue="JUnit.ArrayListTest.ArrayListremoveTest2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArrayListTest.ArrayListremoveTest2" />
+        <item itemvalue="JUnit.ArrayListTest" />
         <item itemvalue="JUnit.All in GetTestieCollections" />
         <item itemvalue="JUnit.TestStack" />
       </list>
@@ -320,17 +303,12 @@
       <option name="presentableId" value="Default" />
       <updated>1572626971742</updated>
       <workItem from="1572626975037" duration="1350000" />
-      <workItem from="1572728118757" duration="1539000" />
+      <workItem from="1572728118757" duration="2130000" />
+      <workItem from="1572733333160" duration="1861000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestStack - 2019.11.01 at 13h 01m 43s.xml">
-      <configuration name="TestStack" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestStack - 2019.11.01 at 13h 02m 55s.xml">
-      <configuration name="TestStack" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestStack - 2019.11.01 at 13h 06m 26s.xml">
       <configuration name="TestStack" configurationId="JUnit" />
     </history-entry>
@@ -355,15 +333,21 @@
     <history-entry file="All_in_GetTestieCollections - 2019.11.02 at 17h 19m 46s.xml">
       <configuration name="All in GetTestieCollections" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ArrayListTest - 2019.11.02 at 18h 22m 58s.xml">
+      <configuration name="ArrayListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListTest_ArrayListremoveTest2 - 2019.11.02 at 18h 28m 22s.xml">
+      <configuration name="ArrayListTest.ArrayListremoveTest2" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2889000" />
+    <option name="totallyTimeSpent" value="5341000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="23" width="1245" height="711" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17123857" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17373234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -380,7 +364,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32956383" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26979" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32956383" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -413,13 +397,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/AppTest.java">
+    <entry file="file://$PROJECT_DIR$/gettestie/src/main/java/rocks/zipcode/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -438,25 +419,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
-            <element signature="e#812#813#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gettestie/src/main/java/rocks/zipcode/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/TestStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
+        <state relative-caret-position="615">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -464,10 +432,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/ArrayListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        <state relative-caret-position="315">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="66" lean-forward="true" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -510,6 +508,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
